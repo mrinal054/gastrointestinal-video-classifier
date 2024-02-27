@@ -1,1 +1,1 @@
-# gastrointestinal-video-classifier
+# Gastrointestinal (GI) Tract Video Classifier
