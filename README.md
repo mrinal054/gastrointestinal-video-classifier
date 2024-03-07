@@ -8,16 +8,16 @@ hyperKvasir (https://datasets.simula.no/hyper-kvasir/) <br>
 * Frames are resized to 224 × 224 <br>
 
 ## Training
-Data split <br>
-- Randomly picked 60 videos from each GI <br>
+- Data split <br>
+    - Randomly picked 60 videos from each GI <br>
     - Split: training : validation : test -> 70 : 15 : 15 <br>
     - Total training data: 84 <br>
-Total validation data: 18 <br>
-Total test data: 18 <br>
-Loss function: Sparse Categorical Cross-Entropy <br>
-Optimizer: Adam <br>
-Batch size: 2 <br>
-Epoch: 50 <br>
+- Total validation data: 18 <br>
+- Total test data: 18 <br>
+- Loss function: Sparse Categorical Cross-Entropy <br>
+- Optimizer: Adam <br>
+- Batch size: 2 <br>
+- Epoch: 50 <br>
 
 
 
