@@ -28,7 +28,16 @@ hyperKvasir (https://datasets.simula.no/hyper-kvasir/) <br>
     - Experimented 50 times. 
     - Each time training, validation, and test data are picked randomly.
  
-![image](https://github.com/mrinal054/gastrointestinal-video-classifier/assets/44781227/ab4f3a8f-a512-42d1-8b69-00b1863a1a29){width=5%}
+| No. of incorrect | Without P-scSE3D | With P-scSE3D |
+| :---: | :---: |  :---: |
+| 0 | 3 |  12 |
+| 1 | 17 |  14 |
+| 2 | 13 |  16 |
+| 3 | 9 |  8 |
+| 4 | 5 |  0 |
+| 5 | 1 |  0 |
+| 6 | 1 |  0 |
+| 7 | 1 |  0 |
 
 
 
