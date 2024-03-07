@@ -8,17 +8,17 @@ hyperKvasir (https://datasets.simula.no/hyper-kvasir/) <br>
 * Frames are resized to 224 × 224 <br>
 
 ## Training
-Data split
-    * Randomly picked 60 videos from each GI
-Split: training : validation : test  70 : 15 : 15
-Total training data: 84
-Total validation data: 18 
-Total test data: 18
-Loss function: Sparse Categorical Cross-Entropy
-Optimizer: Adam
-Batch size: 2
-Epoch: 50
-![image](https://github.com/mrinal054/gastrointestinal-video-classifier/assets/44781227/cfd4950f-a92d-40d0-b604-3296bb1dbfc1)
+Data split <br>
+    * Randomly picked 60 videos from each GI <br>
+    * Split: training : validation : test -> 70 : 15 : 15 <br>
+Total training data: 84 <br>
+Total validation data: 18 <br>
+Total test data: 18 <br>
+Loss function: Sparse Categorical Cross-Entropy <br>
+Optimizer: Adam <br>
+Batch size: 2 <br>
+Epoch: 50 <br>
+
 
 
 
