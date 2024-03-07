@@ -14,8 +14,8 @@ hyperKvasir (https://datasets.simula.no/hyper-kvasir/) <br>
 ## Training
 - Data split <br>
     &check; Randomly picked 60 videos from each GI <br>
-    - Split: training : validation : test -> 70 : 15 : 15 <br>
-    - Total training data: 84 <br>
+    &check; Split: training : validation : test -> 70 : 15 : 15 <br>
+    &check; Total training data: 84 <br>
 - Total validation data: 18 <br>
 - Total test data: 18 <br>
 - Loss function: Sparse Categorical Cross-Entropy <br>
@@ -25,8 +25,8 @@ hyperKvasir (https://datasets.simula.no/hyper-kvasir/) <br>
 
 ## Results
 - Result
-    - Experimented 50 times. 
-    - Each time training, validation, and test data are picked randomly.
+    &check; Experimented 50 times. 
+    &check; Each time training, validation, and test data are picked randomly.
  
 | No. of incorrect | Without P-scSE3D | With P-scSE3D |
 | :---: | :---: |  :---: |
