@@ -39,7 +39,7 @@ hyperKvasir (https://datasets.simula.no/hyper-kvasir/) <br>
 | 6 | 1 |  0 |
 | 7 | 1 |  0 |
 
-**This work has been accepted at Digestive Disease Week 2024.**
+**This work has been accepted at the Digestive Disease Week 2024.**
 
 
 
