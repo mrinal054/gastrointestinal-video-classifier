@@ -28,7 +28,7 @@ hyperKvasir (https://datasets.simula.no/hyper-kvasir/) <br>
     - Experimented 50 times. 
     - Each time training, validation, and test data are picked randomly.
  
-![image](https://github.com/mrinal054/gastrointestinal-video-classifier/assets/44781227/ab4f3a8f-a512-42d1-8b69-00b1863a1a29){height=50%, width=50%}
+![image](https://github.com/mrinal054/gastrointestinal-video-classifier/assets/44781227/ab4f3a8f-a512-42d1-8b69-00b1863a1a29){width=50%}
 
 
 
