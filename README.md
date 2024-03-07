@@ -23,6 +23,14 @@ hyperKvasir (https://datasets.simula.no/hyper-kvasir/) <br>
 - Batch size: 2 <br>
 - Epoch: 50 <br>
 
+## Results
+- Result
+    - Experimented 50 times. 
+    - Each time training, validation, and test data are picked randomly.
+ 
+  ![image](https://github.com/mrinal054/gastrointestinal-video-classifier/assets/44781227/f728899b-5815-4406-a73f-bc86615f5a24)
+
+
 
 
 
