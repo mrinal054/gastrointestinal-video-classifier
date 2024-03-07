@@ -5,7 +5,11 @@ hyperKvasir (https://datasets.simula.no/hyper-kvasir/) <br>
 * Videos have two types of resolutions - 1280 × 1024 and 720 × 576 <be>
 
 ## Preprocessing
-* Frames are resized to 224 × 224 <br>
+* Frames are resized to 224 × 224 <be>
+
+## Model Architecture
+![image](https://github.com/mrinal054/gastrointestinal-video-classifier/assets/44781227/c4598acf-a6f6-4cea-a70d-9dcf90dcbb0f)
+
 
 ## Training
 - Data split <br>
