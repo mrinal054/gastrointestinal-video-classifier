@@ -24,7 +24,7 @@ hyperKvasir (https://datasets.simula.no/hyper-kvasir/) <br>
 - Epoch: 50 <br>
 
 ## Results
-- Result
+- Result <br>
     &check; Experimented 50 times. <br>
     &check; Each time training, validation, and test data are picked randomly. <br>
  
