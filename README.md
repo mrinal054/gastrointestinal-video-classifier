@@ -25,8 +25,8 @@ hyperKvasir (https://datasets.simula.no/hyper-kvasir/) <br>
 
 ## Results
 - Result
-    &check; Experimented 50 times. 
-    &check; Each time training, validation, and test data are picked randomly.
+    &check; Experimented 50 times. <br>
+    &check; Each time training, validation, and test data are picked randomly. <br>
  
 | No. of incorrect | Without P-scSE3D | With P-scSE3D |
 | :---: | :---: |  :---: |
@@ -39,6 +39,7 @@ hyperKvasir (https://datasets.simula.no/hyper-kvasir/) <br>
 | 6 | 1 |  0 |
 | 7 | 1 |  0 |
 
+**This work has been accepted at Digestive Disease Week 2024.**
 
 
 
