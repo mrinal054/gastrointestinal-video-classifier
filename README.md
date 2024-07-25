@@ -40,9 +40,9 @@ This model is implemented on top of [TF-3DCNN](https://www.tensorflow.org/tutori
 | 6 | 1 |  0 |
 | 7 | 1 |  0 |
 
-**This work is the updated version of our previous implementation accepted at the Digestive Disease Week 2024.**
+**This work is the updated version of our previous implementation accepted at the Digestive Disease Week 2024.** <br>
 
-## Citation
+Find the previous version at -<br>
 Gopalakrishnan, Keerthy, et al. "Tu2015 A NOVEL 3D CONVOLUTIONAL NEURAL NETWORK BASED DEEP LEARNING MODEL FOR GASTROINTESTINAL ENDOSCOPIC VIDEO CLASSIFICATION: FEASIBILITY STUDY." Gastroenterology 166.5 (2024): S-1493.
 
 
