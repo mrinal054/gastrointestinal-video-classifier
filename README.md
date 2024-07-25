@@ -8,7 +8,7 @@ hyperKvasir (https://datasets.simula.no/hyper-kvasir/) <br>
 * Frames are resized to 224 × 224 <be>
 
 ## Model Architecture
-This model is implemented on top of TF-3DCNN(https://www.tensorflow.org/tutorials/video/video_classification). <br>
+This model is implemented on top of ![TF-3DCNN](https://www.tensorflow.org/tutorials/video/video_classification). <br>
 ![image](https://github.com/mrinal054/gastrointestinal-video-classifier/assets/44781227/c4598acf-a6f6-4cea-a70d-9dcf90dcbb0f)
 
 
