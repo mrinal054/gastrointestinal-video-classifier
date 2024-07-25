@@ -41,6 +41,9 @@ hyperKvasir (https://datasets.simula.no/hyper-kvasir/) <br>
 
 **This work has been accepted at the Digestive Disease Week 2024.**
 
+## Citation
+Gopalakrishnan, Keerthy, et al. "Tu2015 A NOVEL 3D CONVOLUTIONAL NEURAL NETWORK BASED DEEP LEARNING MODEL FOR GASTROINTESTINAL ENDOSCOPIC VIDEO CLASSIFICATION: FEASIBILITY STUDY." Gastroenterology 166.5 (2024): S-1493.
+
 
 
 
